@@ -3,3 +3,5 @@
  - Nueva línea agregada en la rama "Adicionar"
 
  - Modificación de contenido en la rama modificar
+
+ - Esta línea será eliminada
