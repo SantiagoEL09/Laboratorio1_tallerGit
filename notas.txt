@@ -5,3 +5,5 @@
  - Modificación de contenido en la rama modificar
 
  - Esta línea será eliminada
+
+ - Consulta de datos en la rama Consultar
